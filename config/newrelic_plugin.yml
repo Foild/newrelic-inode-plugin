@@ -26,4 +26,4 @@ newrelic:
 agents:
   # this is where configuration for agents belongs
   inode:
-    hostname: hostname
+    hostname: localhost
